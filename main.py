@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Texture Extractor to Atlas (Auto Selected Faces)",
+    "name": "UVRectifier",
     "author": "ChatGPT (prototype)",
     "version": (0, 3),
     "blender": (5, 0, 0),
